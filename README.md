@@ -1,92 +1,182 @@
-<div align="center">✨ Hey There! 👋 I’m Arijit Goswami
+<div align="center">
 
-🤖 Building AI-Powered Solutions • 💻 CSE Student • 🧠 AI & ML Enthusiast
+<h1>Hey There! 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4DB&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Real-World+Projects;Turning+Ideas+Into+Code" alt="Typing Animation"/></div>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=FF3030&center=true&vCenter=true&width=750&lines=I'm+Arijit+Goswami" alt="I'm Arijit Goswami"/>
 
-🏆 AI & ML Journey
+<h3>💻 CSE Student • 🤖 AI & ML Enthusiast • 🚀 Developer</h3>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00B4DB&height=180&text=AI%20%2B%20DATA%20%2B%20CODE&fontSize=36&fontColor=ffffff&animation=fadeIn" width="90%" alt="AI and Machine Learning"/></div>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Real-World+Projects;Turning+Ideas+Into+Code" alt="Typing Animation"/>
 
-👨‍💻 About Me
-
-- 🎓 Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning
-- 🐍 Currently learning Python
-- ☕ Improving my Java programming skills
-- 🗄️ Learning and practicing SQL
-- 🧠 Building my foundation in Data Structures & Algorithms
-- 🤖 Exploring Artificial Intelligence, Machine Learning & Data Science
-- 🚀 Building projects to gain practical development experience
-- 🏆 Interested in hackathons and coding competitions
-- 🌱 Always learning, experimenting and improving
+</div>
 
 ---
 
-🤝 Connect With Me
+<div align="center">
 
-<div align="center"><a href="https://www.linkedin.com/in/arijit-goswami-9a3138395/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111827,100:243B55&height=190&text=AI%20%2B%20DATA%20%2B%20CODE&fontSize=40&fontColor=ffffff&animation=twinkling" width="90%" alt="AI and Machine Learning"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Arijit Goswami**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+
+I'm passionate about learning technology, solving problems, and building projects that turn ideas into practical solutions.
+
+- 🎓 Computer Science Engineering — **AI & ML**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🐍 Learning **Python**
+- ☕ Improving **Java**
+- 🗄️ Learning **SQL**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 📊 Exploring **Data Science**
+- 🚀 Building projects and improving my development skills
+- 🏆 Interested in **Hackathons & Coding Competitions**
+- 🌱 Always learning something new
+
+---
+
+## 💭 My Philosophy
+
+<div align="center">
+
+### **“Learn. Code. Build. Repeat.”** 🚀
+
+*Turning curiosity into code and ideas into intelligent solutions.*
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arijit-goswami-9a3138395/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Arijit%20Goswami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/arijit2006aiml07">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/arijit2006aiml07" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-arijit2006aiml07-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>---
+</a>
 
-🛠️ Tech Stack
+</div>
 
-💻 Programming
+---
 
-<p>
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java"/>
-</p>🗄️ Database
 
-<p>
+</div>
+
+### 🗄️ Database
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql"/>
-</p>🤖 AI & Data Science
 
-"NumPy" • "Pandas" • "Machine Learning"
+</div>
 
-🔧 Tools
+### 🤖 AI & Data Science
 
-<p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+### 🔧 Tools
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
-</p>---
 
-🚀 Featured Projects
-
-💰 Student Expense Tracker
-
-A Python project for tracking and managing student expenses.
-
-🤖 AI & Machine Learning Projects
-
-Projects focused on learning and applying AI/ML concepts to practical problems.
-
-☕ Java Programming Projects
-
-Java projects covering programming fundamentals, OOP and problem solving.
+</div>
 
 ---
 
-🎯 My Goals
+## 🚀 Featured Projects
 
-- 🧠 Master Data Structures & Algorithms
-- 🐍 Become highly proficient in Python
-- ☕ Strengthen Java
-- 🤖 Build strong AI & Machine Learning skills
-- 📊 Improve SQL & Data Analysis
-- 📐 Strengthen mathematics for AI/ML
-- 💻 Build meaningful real-world projects
-- 🏆 Participate in hackathons and coding competitions
-- 🌐 Contribute to open-source projects
-- 🚀 Become a skilled Software & AI/ML Developer
+### 💰 Student Expense Tracker
+
+A Python project designed to **track and manage student expenses** in a simple and organized way.
+
+**Technology:** Python
 
 ---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:203A43,100:0F2027&height=220&section=header&text=ARTIFICIAL%20INTELLIGENCE&fontSize=34&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="90%" alt="Artificial Intelligence"/><br><br>
+### 🤖 AI & Machine Learning Projects
 
-🧠 Learn • Build • Experiment • Innovate
+Projects focused on learning and applying **Artificial Intelligence and Machine Learning concepts** to practical problems.
 
-</div>---
+**Focus:** AI • ML • Data Science
 
-<div align="center">🙏 Thank You For Visiting My Profile!
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00B4DB&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+👋;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+🚀" alt="Thank You"/></div>
+### ☕ Java Projects
+
+Java programs focused on **OOP, programming fundamentals and problem solving**.
+
+**Technology:** Java
+
+---
+
+## 🎯 My Goals
+
+<div align="center">
+
+🤖 **Master Artificial Intelligence & Machine Learning**
+
+🐍 **Become highly proficient in Python**
+
+🧠 **Master Data Structures & Algorithms**
+
+📊 **Build strong Data Science skills**
+
+🗄️ **Become confident with SQL**
+
+💻 **Build meaningful real-world projects**
+
+🏆 **Participate in hackathons**
+
+🌐 **Contribute to open source**
+
+🚀 **Become a skilled Software & AI/ML Developer**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,45:111827,75:243B55,100:00B4DB&height=220&text=ARTIFICIAL%20INTELLIGENCE&fontSize=34&fontColor=ffffff&animation=twinkling" width="90%" alt="Artificial Intelligence"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;Data+%7C+Code+%7C+Innovation+%F0%9F%9A%80" alt="AI ML Animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%99%8F+Thank+You+For+Visiting+My+Profile!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80" alt="Thank You Animation"/>
+
+<br>
+
+### ⭐ Thanks for stopping by!
+
+</div>
