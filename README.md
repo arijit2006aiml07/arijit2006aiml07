@@ -1,10 +1,17 @@
 <div align="center">
 
-<h1>Hey There! 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hey+There!+%F0%9F%91%8B;I'm+Arijit+Goswami" alt="Arijit Goswami"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=FF3030&center=true&vCenter=true&width=750&lines=I'm+Arijit+Goswami" alt="I'm Arijit Goswami"/>
+<img src="https://flagcdn.com/w80/in.png" width="70" alt="Indian Flag">
 
-<h3>💻 CSE Student • 🤖 AI & ML Enthusiast • 🚀 Developer</h3>
+<p><b>💻 CSE Student • 🤖 AI & ML Enthusiast • 🚀 Developer</b></p>
+
+
+<br>
+
+
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Real-World+Projects;Turning+Ideas+Into+Code" alt="Typing Animation"/>
 
@@ -12,31 +19,61 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111827,100:243B55&height=190&text=AI%20%2B%20DATA%20%2B%20CODE&fontSize=40&fontColor=ffffff&animation=twinkling" width="90%" alt="AI and Machine Learning"/>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-Hi! I'm **Arijit Goswami**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+<div align="center">
 
-I'm passionate about learning technology, solving problems, and building projects that turn ideas into practical solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=800&lines=Exploring+The+World+Of+AI+%26+ML+%F0%9F%A4%96;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%92%A1;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%E2%9C%A8" alt="AI ML Animation"/>
 
-- 🎓 Computer Science Engineering — **AI & ML**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🐍 Learning **Python**
-- ☕ Improving **Java**
-- 🗄️ Learning **SQL**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 📊 Exploring **Data Science**
-- 🚀 Building projects and improving my development skills
-- 🏆 Interested in **Hackathons & Coding Competitions**
-- 🌱 Always learning something new
+<br>
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧑‍💻 Who I Am
+
+🎓 **Computer Science Student**
+
+🤖 Exploring **Artificial Intelligence**
+
+💡 Curious about **Technology & Innovation**
+
+🚀 Passionate about **Building Projects**
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ What I'm Learning
+
+🐍 **Python**
+
+🧠 **Data Structures & Algorithms**
+
+🤖 **Machine Learning**
+
+📊 **Data Science**
+
+🗄️ **SQL**
+
+🏆 **Hackathons**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=750&lines=Think+%F0%9F%A4%94;Learn+%F0%9F%A7%A0;Code+%F0%9F%92%BB;Build+%F0%9F%9A%80;Innovate+%E2%9C%A8" alt="Learning Animation"/>
+
+<br>
+
+### 🎯 My Mindset
+
+> **“Every line of code is a step towards something greater.”** 🚀
+
+</div>
 ---
 
 ## 💭 My Philosophy
@@ -50,23 +87,33 @@ I'm passionate about learning technology, solving problems, and building project
 </div>
 
 ---
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arijit-goswami-9a3138395/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Arijit%20Goswami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="35" />
 </a>
+&nbsp;
+<b>Arijit Goswami</b>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/arijit2006aiml07" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-arijit2006aiml07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://x.com/goswami_ar5994" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="35" />
 </a>
+&nbsp;
+<b>@goswami_ar5994</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/ari_jit__07__/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="35" />
+</a>
+&nbsp;
+<b>@ari_jit__07__</b>
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
