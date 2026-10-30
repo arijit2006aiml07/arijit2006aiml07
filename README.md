@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&fontSize=38&fontColor=00F5FF&fontAlignY=40&desc=Where%20Curiosity%20Meets%20Intelligence&descSize=17&descColor=C9B6FF&descAlignY=62&animation=twinkling" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Code Create Innovate"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There!+%F0%9F%91%8B;Welcome+To+My+Profile+%E2%9C%A8" alt="Hey There!"/>
 
