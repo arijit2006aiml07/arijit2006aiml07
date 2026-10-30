@@ -165,20 +165,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arijit2006aiml07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4DB&icon_color=58A6FF" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2006aiml07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4DB" alt="Top Languages"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=arijit2006aiml07&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4DB&fire=58A6FF&currStreakLabel=00B4DB" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arijit2006aiml07&bg_color=0D1117&color=58A6FF&line=00B4DB&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arijit2006aiml07&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
