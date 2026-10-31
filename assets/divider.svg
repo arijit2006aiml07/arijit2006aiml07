@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="100%">
+<defs>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F5FF" stop-opacity="0"/><stop offset=".3" stop-color="#00F5FF"/><stop offset=".7" stop-color="#B388FF"/><stop offset="1" stop-color="#B388FF" stop-opacity="0"/></linearGradient>
+<radialGradient id="c"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#00F5FF" stop-opacity=".6"/><stop offset="1" stop-color="#00F5FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="v"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#B388FF" stop-opacity=".6"/><stop offset="1" stop-color="#B388FF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0" y="14" width="1200" height="2" rx="1" fill="url(#l)" opacity=".7"/>
+<circle r="12" fill="url(#c)"><animateMotion dur="3.5s" repeatCount="indefinite" path="M0,15H1200"/></circle>
+<circle r="12" fill="url(#v)"><animateMotion dur="4.5s" repeatCount="indefinite" path="M1200,15H0"/></circle>
+<g fill="none" stroke-width="2"><path d="M600,5L610,15L600,25L590,15Z" stroke="#00F5FF"><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/></path><path d="M560,10L566,15L560,20L554,15Z" stroke="#B388FF"><animate attributeName="opacity" values=".2;1;.2" dur="2s" begin=".4s" repeatCount="indefinite"/></path><path d="M640,10L646,15L640,20L634,15Z" stroke="#B388FF"><animate attributeName="opacity" values=".2;1;.2" dur="2s" begin=".8s" repeatCount="indefinite"/></path></g>
+</svg>
