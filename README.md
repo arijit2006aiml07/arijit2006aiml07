@@ -22,12 +22,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Real-World+Projects;Turning+Ideas+Into+Code" alt="Typing Animation"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00F5FF?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Currently-Learning%20ML-7B2FF7?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge&labelColor=0f0c29"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
@@ -227,6 +221,18 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%92%BB+Always+Building" alt="Always Building"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/coder.svg" width="75%" alt="Coding animation"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 
 <br>
@@ -307,7 +313,7 @@ Become a skilled **AI/ML Engineer** 🚀
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=750&lines=%F0%9F%99%8F+Thank+You+For+Visiting+My+Profile!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80" alt="Thank You"/>
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/thanks.svg" width="100%" alt="Thank You"/>
 
 ### ⭐ Thanks for stopping by! 🙏
 
