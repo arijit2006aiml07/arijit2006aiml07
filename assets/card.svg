@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="100%">
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00F5FF"/><stop offset="1" stop-color="#7B2FF7"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#24243e"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F5FF"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#B388FF"/></linearGradient>
+<filter id="gl" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"><animate attributeName="stdDeviation" values="1.5;5;1.5" dur="3s" repeatCount="indefinite"/></feGaussianBlur><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="10" y="10" width="1180" height="250" rx="24" fill="url(#bg)" stroke="url(#bd)" stroke-width="2" stroke-dasharray="14 10"><animate attributeName="stroke-dashoffset" values="0;-48" dur="2s" repeatCount="indefinite"/></rect>
+<g><circle r="14" fill="#00F5FF" opacity=".3"/><circle r="5" fill="#fff"/><animateMotion dur="8s" repeatCount="indefinite" path="M34,10H1166Q1190,10 1190,34V236Q1190,260 1166,260H34Q10,260 10,236V34Q10,10 34,10Z"/></g>
+<g font-family="Fira Code,Consolas,monospace" text-anchor="middle">
+<text x="600" y="58" font-size="27" font-weight="700" letter-spacing="3" fill="url(#tx)" filter="url(#gl)">AI / ML ENGINEER IN THE MAKING</text>
+<g fill="#ffffff" fill-opacity=".05" stroke-width="1.5">
+<rect x="60" y="85" width="330" height="95" rx="16" stroke="#00F5FF"><animate attributeName="stroke-opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="435" y="85" width="330" height="95" rx="16" stroke="#B388FF"><animate attributeName="stroke-opacity" values=".3;1;.3" dur="3s" begin="1s" repeatCount="indefinite"/></rect>
+<rect x="810" y="85" width="330" height="95" rx="16" stroke="#00F5FF"><animate attributeName="stroke-opacity" values=".3;1;.3" dur="3s" begin="2s" repeatCount="indefinite"/></rect>
+</g>
+<text x="225" y="115" font-size="13" fill="#00F5FF" letter-spacing="4">ROLE</text><text x="225" y="150" font-size="19" font-weight="700" fill="#fff">CSE (AI &amp; ML) Student</text>
+<text x="600" y="115" font-size="13" fill="#B388FF" letter-spacing="4">FOCUS</text><text x="600" y="150" font-size="19" font-weight="700" fill="#fff">Python • DSA • ML • SQL</text>
+<text x="975" y="115" font-size="13" fill="#00F5FF" letter-spacing="4">GOAL</text><text x="975" y="150" font-size="19" font-weight="700" fill="#fff">AI / ML Engineer</text>
+<rect x="60" y="205" width="1080" height="8" rx="4" fill="#fff" fill-opacity=".1"/>
+<rect x="60" y="205" width="0" height="8" rx="4" fill="url(#bd)" filter="url(#gl)"><animate attributeName="width" values="0;1080" dur="9s" repeatCount="indefinite"/></rect>
+<text x="600" y="243" font-size="15" fill="#00F5FF">Loading Curiosity ... 100%<animate attributeName="opacity" values="1;0;0" keyTimes="0;.3333;.6667" dur="9s" calcMode="discrete" repeatCount="indefinite"/></text>
+<text x="600" y="243" font-size="15" fill="#B388FF" opacity="0">Training Consistency ... in progress<animate attributeName="opacity" values="0;1;0" keyTimes="0;.3333;.6667" dur="9s" calcMode="discrete" repeatCount="indefinite"/></text>
+<text x="600" y="243" font-size="15" fill="#fff" opacity="0">Deploying Dreams ... coming soon<animate attributeName="opacity" values="0;0;1" keyTimes="0;.3333;.6667" dur="9s" calcMode="discrete" repeatCount="indefinite"/></text>
+</g>
+</svg>
