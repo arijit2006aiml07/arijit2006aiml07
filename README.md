@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Code Create Innovate"/>
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/banner.svg" width="100%" alt="Code Create Innovate"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=700&lines=AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Science+%E2%80%A2+Python" alt="Skills"/>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There!+%F0%9F%91%8B;Welcome+To+My+Profile+%E2%9C%A8" alt="Hey There!"/>
 
@@ -26,13 +30,15 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 🌌 About Me
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=B388FF&center=true&vCenter=true&width=800&lines=Exploring+The+World+Of+AI+%26+ML+%F0%9F%A4%96;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%92%A1;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%E2%9C%A8" alt="AI ML Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8C%8C+About+Me" alt="About Me"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=B388FF&center=true&vCenter=true&width=800&lines=Exploring+The+World+Of+AI+%26+ML+%F0%9F%A4%96;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%92%A1;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%E2%9C%A8" alt="AI ML Animation"/>
 
 <br>
 
@@ -86,61 +92,29 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## ✨ Profile Card
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B2FF7,100:00F5FF&height=120&text=AI%20%2F%20ML%20ENGINEER%20IN%20THE%20MAKING&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="90%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%E2%9C%A8+Profile+Card" alt="Profile Card"/>
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎓 Role
-**CSE (AI & ML)**
-**Student**
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 Focus
-**Python • DSA • ML**
-**Data Science • SQL**
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 Goal
-**AI / ML**
-**Engineer** 🚀
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Loading+Curiosity+...+100%25;Training+Consistency+...+In+Progress;Deploying+Dreams+...+Coming+Soon+%F0%9F%9A%80" alt="Status"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Motto-Learn.%20Code.%20Build.%20Repeat.-7B2FF7?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/card.svg" width="95%" alt="Profile Card"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F5FF,100:7B2FF7&height=50&section=footer" width="90%"/>
+<img src="https://img.shields.io/badge/Motto-Learn.%20Code.%20Build.%20Repeat.-7B2FF7?style=for-the-badge&labelColor=0f0c29"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 💭 My Philosophy
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%92%AD+My+Philosophy" alt="My Philosophy"/>
+
+<br>
 
 ### **“Learn. Code. Build. Repeat.”** 🚀
 
@@ -148,11 +122,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 🛣️ My Learning Roadmap
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+My+Learning+Roadmap" alt="Roadmap"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/1-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/➜-7B2FF7?style=for-the-badge"/>
@@ -174,11 +150,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 📫 Let's Connect
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%93%AB+Let%27s+Connect" alt="Let's Connect"/>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=B388FF&center=true&vCenter=true&width=700&lines=Open+to+Internships+%26+Collaborations;Let's+Build+Something+Intelligent+Together+%F0%9F%A4%9D" alt="Connect"/>
 
@@ -198,11 +176,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%A7%B0+Tech+Stack" alt="Tech Stack"/>
+
+<br>
 
 <table>
 <tr>
@@ -243,31 +223,37 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
+
+<br>
 
 <img src="https://streak-stats.demolab.com/?user=arijit2006aiml07&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 💬 Dev Thoughts
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%92%AC+Dev+Thoughts" alt="Dev Thoughts"/>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1500&color=B388FF&center=true&vCenter=true&width=800&lines=%22Every+bug+I+fix+is+a+lesson+I+keep.%22;%22Small+commits+today%2C+big+projects+tomorrow.%22;%22Data+tells+a+story%2C+models+learn+to+read+it.%22;%22Consistency+beats+talent+when+talent+stops+learning.%22" alt="Dev Thoughts"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-## 🎯 My Goals
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8E%AF+My+Goals" alt="My Goals"/>
+
+<br>
 
 <table>
 <tr>
@@ -306,7 +292,7 @@ Become a skilled **AI/ML Engineer** 🚀
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -319,15 +305,11 @@ Become a skilled **AI/ML Engineer** 🚀
 <img src="https://img.shields.io/badge/Focus-Data%20Science-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-DSA-7B2FF7?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7B2FF7,100:00F5FF&height=3" width="100%"/>
-
-<div align="center">
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=750&lines=%F0%9F%99%8F+Thank+You+For+Visiting+My+Profile!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80" alt="Thank You"/>
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for stopping by! 🙏
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" width="100%"/>
 
