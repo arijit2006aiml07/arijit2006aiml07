@@ -36,53 +36,11 @@
 
 <br>
 
-<table>
-<tr>
-<td align="center" valign="top" width="50%">
-
-### 🧑‍💻 Who I Am
-
-🎓 **Computer Science Student**
-
-🤖 Exploring **Artificial Intelligence**
-
-💡 Curious about **Technology & Innovation**
-
-🚀 Passionate about **Building Projects**
-
-📚 **Always Learning New Skills**
-
-</td>
-
-<td align="center" valign="top" width="50%">
-
-### ⚡ What I'm Learning
-
-🐍 **Python**
-
-🧠 **Data Structures & Algorithms**
-
-🤖 **Machine Learning**
-
-📊 **Data Science**
-
-🗄️ **SQL**
-
-🏆 **Hackathons**
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/about.svg" width="100%" alt="About Me"/>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=750&lines=Think+%F0%9F%A4%94;Learn+%F0%9F%A7%A0;Code+%F0%9F%92%BB;Build+%F0%9F%9A%80;Innovate+%E2%9C%A8" alt="Learning Animation"/>
-
-<br>
-
-### 🎯 My Mindset
-
-> **“Every line of code is a step towards something greater.”** 🚀
 
 </div>
 
