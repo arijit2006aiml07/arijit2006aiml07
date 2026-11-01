@@ -225,7 +225,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/coder.svg" width="75%" alt="Coding animation"/>
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/coder.svg?v=3" width="75%" alt="Coding animation"/>
 
 </div>
 
@@ -261,40 +261,7 @@
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 AI / ML
-Master **Machine Learning & Deep Learning**
-
-Work with **Neural Networks, CNNs & NLP**
-
-Build and deploy **end-to-end ML models**
-
-</td>
-<td align="center" width="33%">
-
-### 📊 Data & Core
-Strengthen **Data Science & Analytics**
-
-Master **DSA & problem solving**
-
-Get confident with **SQL & databases**
-
-</td>
-<td align="center" width="33%">
-
-### 🌍 Career
-Win **hackathons & competitions**
-
-Contribute to **open source**
-
-Become a skilled **AI/ML Engineer** 🚀
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/arijit2006aiml07/arijit2006aiml07/main/assets/goals.svg" width="100%" alt="My Goals"/>
 
 </div>
 
